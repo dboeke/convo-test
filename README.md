@@ -2,7 +2,8 @@
   <a href="https://steampipe.io">
     <img src="https://steampipe.io/images/steampipe_logo_wordmark_color.svg" height="48">
   </a>
-  <h2 align="center">An extensible SQL interface to your favorite cloud APIs — Get cloud work done with Steampipe.</h2>
+  <h2 align="center">An extensible SQL interface to your favorite cloud APIs.</h2>
+  <h3>Get cloud work done with Steampipe.</h3>
 </p>
 
 <p align="center">
