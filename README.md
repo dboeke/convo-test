@@ -40,4 +40,4 @@ Our [Code of Conduct](https://github.com/turbot/steampipe/CODE_OF_CONDUCT.md) ap
 
 ## Contributing
 
-Please see our [CONTRIBUTING.md](/CONTRIBUTING.md).
+Please see our [CONTRIBUTING.md](/CONTRIBUTING.md)
