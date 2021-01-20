@@ -8,9 +8,6 @@
 </p>
 
 <p align="center">
-  <a aria-label="Steampipe logo" href="https://steampipe.io">
-    <img src="https://steampipe.io/images/steampipe_logo_wordmark_padding.svg" height="28">
-  </a>
   <a aria-label="Steampipe version" href="https://steampipe.io/download">
     <img alt="" src="https://img.shields.io/static/v1?label=cli&message=v0.1.0&style=for-the-badge&labelColor=000000&color=C7272E">
   </a>
