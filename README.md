@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <a aria-label="Turbot logo" href="https://turbot.com">
-    <img src="https://steampipe.io/images/made-by-turbot-badge.svg" height="28">
+  <a aria-label="Steampipe logo" href="https://steampipe.io">
+    <img src="https://steampipe.io/images/steampipe_logo_wordmark_padding.svg" height="28">
   </a>
   <a aria-label="Steampipe version" href="https://steampipe.io/download">
-    <img alt="" src="https://img.shields.io/static/v1?label=steampipe&message=v0.1.0&style=for-the-badge&labelColor=000000&color=C7272E">
+    <img alt="" src="https://img.shields.io/static/v1?label=version&message=0.1.0&style=for-the-badge&labelColor=000000&color=C7272E">
   </a>
   <a aria-label="License" href="https://github.com/turbot/steampipe/license.md">
     <img alt="" src="https://img.shields.io/static/v1?label=license&message=mozilla&style=for-the-badge&labelColor=000000&color=27C7C0">
