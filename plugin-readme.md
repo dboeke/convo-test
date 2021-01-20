@@ -12,8 +12,8 @@
   <a aria-label="Plugin version" href="https://hub.steampipe.io/plugins/turbot/{plugin-name}">
     <img alt="" src="https://img.shields.io/static/v1?label=turbot/aws&message=v0.1.0&style=for-the-badge&labelColor=222222&color=C7272E">
   </a>
-  <a aria-label="License" href="https://github.com/turbot/steampipe/LICENSE">
-    <img alt="" src="https://img.shields.io/static/v1?label=license&message=mozilla&style=for-the-badge&labelColor=222222&color=27C7C0">
+  <a aria-label="License" href="LICENSE">
+    <img alt="" src="https://img.shields.io/static/v1?label=license&message=Mozilla Public License 2.0&style=for-the-badge&labelColor=222222&color=27C7C0">
   </a>
 </p>
 
