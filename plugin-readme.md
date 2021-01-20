@@ -23,7 +23,7 @@ This plugin defines the interface and table schemas for support of the {Service 
 
 Visit [https://hub.steampipe.io/plugins/turbot/{plugin-name}](https://hub.steampipe.io/plugins/turbot/{plugin-name}) to view the full documentation.
 
-## Just getting Started with Steampipe?
+## Getting Started with Steampipe?
 
 Visit <a aria-label="steampipe" href="https://steampipe.io/">https://steampipe.io/</a> to get started with Steampipe.
 
