@@ -4,7 +4,7 @@
 
 <p align="center">
   <a aria-label="Steampipe logo" href="https://steampipe.io">
-    <img src="https://steampipe.io/images/steampipe_logo_wordmark_color.svg" height="28">
+    <img src="https://steampipe.io/images/steampipe_logo_wordmark_color.svg" height="24"> &nbsp;&nbsp;
   </a>
   <a aria-label="Plugin version" href="https://hub.steampipe.io/plugins/turbot/{plugin-name}">
     <img alt="" src="https://img.shields.io/static/v1?label=turbot/aws&message=v0.1.0&style=for-the-badge&labelColor=222222&color=C7272E">
