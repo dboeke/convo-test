@@ -3,7 +3,7 @@
     <img src="https://steampipe.io/images/steampipe_logo_wordmark_color.svg" height="48">
   </a>
   <h2 align="center">
-    An extensible SQL interface to your favorite cloud APIs.<br />
+    An extensible SQL interface to your favorite cloud APIs.<br />&nbsp;
   </h2>
 </p>
 
@@ -21,6 +21,7 @@
     <img alt="" src="https://img.shields.io/badge/Join%20the%20community-27C7C0.svg?style=for-the-badge&logo=GitHub&labelColor=000000&logoWidth=20">
   </a>
 </p>
+<p align="center">&nbsp;</p>
 
 ## Getting Started
 
