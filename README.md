@@ -12,7 +12,7 @@
   <a aria-label="Steampipe version" href="https://steampipe.io/download">
     <img alt="" src="https://img.shields.io/static/v1?label=cli&message=v0.1.0&style=for-the-badge&labelColor=000000&color=C7272E">
   </a>
-  <a aria-label="License" href="https://github.com/turbot/steampipe/license.md">
+  <a aria-label="License" href="LICENSE">
     <img alt="" src="https://img.shields.io/static/v1?label=license&message=MPL-2.0&style=for-the-badge&labelColor=000000&color=1D3C71">
   </a>
   <a aria-label="Join the community on GitHub" href="https://github.com/turbot/steampipe/discussions">
@@ -36,4 +36,4 @@ Our [Code of Conduct](https://github.com/turbot/steampipe/CODE_OF_CONDUCT.md) ap
 
 ## Contributing
 
-Please see our [contributing.md](/contributing.md).
+Please see our [CONTRIBUTING.md](/CONTRIBUTING.md).
