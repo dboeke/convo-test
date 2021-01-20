@@ -3,11 +3,8 @@
 </p>
 
 <p align="center">
-  <a aria-label="Turbot logo" href="https://turbot.com">
-    <img src="https://steampipe.io/images/made-by-turbot-badge.svg" height="28">
-  </a>
-  <a aria-label="Plugin version" href="https://hub.steampipe.io/plugins">
-    <img alt="" src="https://img.shields.io/static/v1?label=steampipe&message=plugin&style=for-the-badge&labelColor=222222&color=1D3C71">
+  <a aria-label="Steampipe logo" href="https://steampipe.io">
+    <img src="https://steampipe.io/images/steampipe_logo_wordmark_color.svg" height="28">
   </a>
   <a aria-label="Plugin version" href="https://hub.steampipe.io/plugins/turbot/{plugin-name}">
     <img alt="" src="https://img.shields.io/static/v1?label=turbot/aws&message=v0.1.0&style=for-the-badge&labelColor=222222&color=C7272E">
