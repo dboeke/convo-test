@@ -28,6 +28,10 @@ Visit <a aria-label="download steampipe" href="https://steampipe.io/downloads">h
 
 Visit [https://steampipe.io/docs](https://steampipe.io/docs) to view the full documentation.
 
+## Plugins
+
+Looking for plugins? Checkout [The Steampipe Hub](https://hubs.teampipe.io/) to browse available plugins and view their docs.
+
 ## Community
 
 The Steampipe community can be found on [GitHub Discussions](https://github.com/turbot/steampipe/discussions), where you can ask questions, voice ideas, and share your projects.
