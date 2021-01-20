@@ -30,7 +30,7 @@ Visit https://steampipe.io/docs for full documentation on everything Steampipe.
 
 ## Plugins
 
-Looking for plugins? Checkout [The Steampipe Hub](https://hubs.teampipe.io/) to browse available plugins and view their docs.
+Looking for plugins? Checkout [The Steampipe Hub](https://hubs.teampipe.io/) to browse available plugins and schema docs.
 
 ## Community
 
