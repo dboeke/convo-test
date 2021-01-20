@@ -26,7 +26,7 @@ Visit https://steampipe.io/downloads to download Steampipe.
 
 ## Documentation
 
-Visit https://steampipe.io/docs to view the full documentation.
+Visit https://steampipe.io/docs for full documentation on everything Steampipe.
 
 ## Plugins
 
