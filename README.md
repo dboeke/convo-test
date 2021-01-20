@@ -9,13 +9,13 @@
 
 <p align="center">
   <a aria-label="Steampipe version" href="https://steampipe.io/download">
-    <img alt="" src="https://img.shields.io/static/v1?label=cli&message=v0.1.0&style=for-the-badge&labelColor=cccccc&color=F3F1F0">
+    <img alt="" src="https://img.shields.io/static/v1?label=cli&message=v0.1.0&style=for-the-badge&labelColor=eeeeee&color=F3F1F0">
   </a>
   <a aria-label="License" href="LICENSE">
-    <img alt="" src="https://img.shields.io/static/v1?label=license&message=MPL-2.0&style=for-the-badge&labelColor=cccccc&color=F3F1F0">
+    <img alt="" src="https://img.shields.io/static/v1?label=license&message=MPL-2.0&style=for-the-badge&labelColor=eeeeee&color=F3F1F0">
   </a>
   <a aria-label="Join the community on GitHub" href="https://github.com/turbot/steampipe/discussions">
-    <img alt="" src="https://img.shields.io/badge/Join%20the%20community-F3F1F0.svg?style=for-the-badge&logo=GitHub&labelColor=cccccc&logoWidth=20">
+    <img alt="" src="https://img.shields.io/badge/Join%20the%20community-F3F1F0.svg?style=for-the-badge&logo=GitHub&labelColor=eeeeee&logoWidth=20">
   </a>
 </p>
 <p align="center">&nbsp;</p>
