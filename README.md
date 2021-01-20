@@ -22,7 +22,7 @@
 
 ## Getting Started
 
-Visit <a aria-label="download steampipe" href="https://steampipe.io/downloads">https://steampipe.io/downloads</a> to get started with Steampipe.
+Visit <a aria-label="download steampipe" href="https://steampipe.io/downloads">https://steampipe.io/downloads</a> to download Steampipe.
 
 ## Documentation
 
