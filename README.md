@@ -22,11 +22,11 @@
 
 ## Getting Started
 
-Visit <a aria-label="download steampipe" href="https://steampipe.io/downloads">https://steampipe.io/downloads</a> to download Steampipe.
+Visit https://steampipe.io/downloads to download Steampipe.
 
 ## Documentation
 
-Visit [https://steampipe.io/docs](https://steampipe.io/docs) to view the full documentation.
+Visit https://steampipe.io/docs to view the full documentation.
 
 ## Plugins
 
