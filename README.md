@@ -3,7 +3,7 @@
     <img src="https://steampipe.io/images/steampipe_logo_wordmark_color.svg" height="48">
   </a>
   <h2 align="center">
-    An extensible SQL interface to your favorite cloud APIs.
+    An extensible SQL interface to your favorite cloud APIs.<br />
   </h2>
 </p>
 
