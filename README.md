@@ -11,9 +11,11 @@
   <a aria-label="Steampipe version" href="https://steampipe.io/download">
     <img alt="" src="https://img.shields.io/static/v1?label=cli&message=v0.1.0&style=for-the-badge&labelColor=666666&color=F3F1F0">
   </a>
+  &nbsp;
   <a aria-label="License" href="LICENSE">
     <img alt="" src="https://img.shields.io/static/v1?label=license&message=MPL-2.0&style=for-the-badge&labelColor=666666&color=F3F1F0">
   </a>
+  &nbsp;
   <a aria-label="Join the community on GitHub" href="https://github.com/turbot/steampipe/discussions">
     <img alt="" src="https://img.shields.io/badge/Join%20the%20community-F3F1F0.svg?style=for-the-badge&logo=GitHub&labelColor=666666&logoWidth=20">
   </a>
